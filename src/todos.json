@@ -1,0 +1,22 @@
+{
+  "todos":[
+    {
+      "title":"Task 1",
+      "responsible":"Mark",
+      "description":"lorem isum 1",
+      "priority":"low"
+    },
+    {
+      "title":"Task 2",
+      "responsible":"Ryan",
+      "description":"lorem isum 2",
+      "priority":"medium"
+    },
+    {
+      "title":"Task 3",
+      "responsible":"Peter",
+      "description":"lorem isum 3",
+      "priority":"hight"
+    }
+  ]
+}
